@@ -1,0 +1,17 @@
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\1LL.exe
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\1LL.deps.json
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\1LL.runtimeconfig.json
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\1LL.dll
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\1LL.pdb
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.csproj.AssemblyReference.cache
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.AssemblyInfoInputs.cache
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.AssemblyInfo.cs
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.csproj.CoreCompileInputs.cache
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.dll
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\refint\1LL.dll
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.pdb
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.genruntimeconfig.cache
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\ref\1LL.dll
+C:\Users\KEY\Downloads\1LL\1LL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\KEY\Downloads\1LL\1LL\obj\Debug\net6.0\1LL.csproj.CopyComplete
